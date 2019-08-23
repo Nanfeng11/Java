@@ -59,7 +59,7 @@ public class CopyListF {
                 q.next = null;
             }
 
-            p = q.next;
+            p = p.next;
 
         }
 
